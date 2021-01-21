@@ -15,4 +15,4 @@ EOOO AEEEEE
 
 ## d
 
-2014 Git.Training
+2014 Git.Training ALL RIGHT RES
